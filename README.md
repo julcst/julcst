@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=julcst)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julcst)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julcst&layout=compact&lang_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **julcst/julcst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
