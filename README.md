@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<--
+<!--
 ![](https://raw.githubusercontent.com/julcst/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/julcst/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
