@@ -11,7 +11,8 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=julcst)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julcst&layout=compact&lang_count=20)](https://github.com/anuraghazra/github-readme-stats)
-(biased by Falcor-fork and Jupyter file size)
+
+*(biased by Falcor-fork and Jupyter file sizes)*
 
 CS master student at Uni Bonn interested in neural shading and real-time path tracing + hobby game-dev.
 
