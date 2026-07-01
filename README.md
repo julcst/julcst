@@ -16,4 +16,6 @@
 
 CS master student at Uni Bonn interested in neural shading and real-time path tracing + hobby game-dev.
 
+Currently focusing on Neural Radiance Caching and Neural Importance Sampling.
+
 I like Rust, bevy, wgpu, Falcor, Slang, C++ and Linux🤩
