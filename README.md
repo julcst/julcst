@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=julcst&show_icons=true&include_all_commits=true&theme=swift&exclude_repo=falcor-neural,photon-nrc)](https://github-stats-extended.vercel.app/api?username=julcst&show_icons=true&include_all_commits=true&theme=swift&exclude_repo=falcor-neural,photon-nrc)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=julcst&show_icons=true&include_all_commits=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=julcst&show_icons=true&include_all_commits=true&theme=swift)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=julcst&layout=donut-vertical&langs_count=12&theme=swift&hide=jupyter%20notebook&exclude_repo=falcor-neural,photon-nrc)](https://github-stats-extended.vercel.app/api/top-langs?username=julcst&layout=donut-vertical&langs_count=12&theme=swift&hide=jupyter%20notebook&exclude_repo=falcor-neural,photon-nrc)
 
