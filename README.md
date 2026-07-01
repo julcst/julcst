@@ -12,9 +12,9 @@ I like Rust, bevy, wgpu, Falcor, Slang, C++ and Linux🤩
 
 ## Repos
 
-[![](https://github-stats-extended.vercel.app/api/pin/?username=julcst&repo=photon-nrc)](https://github.com/julcst/photon-nrc)
-[![](https://github-stats-extended.vercel.app/api/pin/?username=julcst&repo=binrc)](https://github.com/julcst/binrc)
-[![](https://github-stats-extended.vercel.app/api/pin/?username=julcst&repo=gltemplate)](https://github.com/julcst/gltemplate)
-[![](https://github-stats-extended.vercel.app/api/pin/?username=julcst&repo=monarch-tree)](https://github.com/julcst/monarch-tree)
-[![](https://github-stats-extended.vercel.app/api/pin/?username=julcst&repo=bevy_trail)](https://github.com/julcst/bevy_trail)
-[![](https://github-stats-extended.vercel.app/api/pin/?username=julcst&repo=nbounce)](https://github.com/julcst/nbounce)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=julcst&theme=swift&repo=photon-nrc)](https://github.com/julcst/photon-nrc)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=julcst&theme=swift&repo=binrc)](https://github.com/julcst/binrc)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=julcst&theme=swift&repo=gltemplate)](https://github.com/julcst/gltemplate)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=julcst&theme=swift&repo=monarch-tree)](https://github.com/julcst/monarch-tree)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=julcst&theme=swift&repo=bevy_trail)](https://github.com/julcst/bevy_trail)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=julcst&theme=swift&repo=nbounce)](https://github.com/julcst/nbounce)
